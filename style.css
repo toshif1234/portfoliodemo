@@ -162,9 +162,10 @@ section .title::after{
 
 
 /* home section styling */
-/*.home{
+.home{
+    background: linear-gradient ("to right red , blue ");
     display: flex;
-    background-image: url("../profilepic.jpg");
+    background: url("../profilepic.jpg") no-repeat fixed;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -210,7 +211,7 @@ section .title::after{
 .home .home-content a:hover{
     color: crimson;
     background: none;
-}*/
+}
 
 /* about section styling */
 .about .title::after{
