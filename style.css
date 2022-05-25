@@ -162,7 +162,7 @@ section .title::after{
 
 
 /* home section styling */
-.home{
+/*.home{
     display: flex;
     background-image: url("../profilepic.jpg");
     height: 100vh;
@@ -210,7 +210,7 @@ section .title::after{
 .home .home-content a:hover{
     color: crimson;
     background: none;
-}
+}*/
 
 /* about section styling */
 .about .title::after{
